@@ -4,16 +4,13 @@
 
 * Ruby version = 2.7.1
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
+* Guide: https://guides.rubyonrails.org/getting_started.html
 
 * Deployment instructions
+
+  After having Ruby, Sqlite3, Node, Yarn, Rails installed
+  
+  `$ cd rails-blog`
+  `$ bundle install`
+  `$ rails db:migrate`
+  `$ rails server`
