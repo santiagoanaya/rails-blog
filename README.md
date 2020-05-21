@@ -11,6 +11,9 @@
   After having Ruby, Sqlite3, Node, Yarn, Rails installed
   
   `$ cd rails-blog`
+  
   `$ bundle install`
+  
   `$ rails db:migrate`
+  
   `$ rails server`
